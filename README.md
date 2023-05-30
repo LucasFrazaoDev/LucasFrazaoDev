@@ -1,9 +1,9 @@
-### Lucas Frazão 
+# Lucas Frazão 
 
 - Unity C# Programmer Jr
 - Focus on gameplay and AI
 
-## Gamedev programmer with knowledge of front end development and curiosity about the C++ language
+### Gamedev programmer with knowledge of front end development and curiosity about the C++ language
 
 <div align="center">
   <a href="https://github.com/lucasfrazaodev">
