@@ -2,7 +2,7 @@
 
 ### Gamedev programmer with knowledge of front end development
 - Unity C# Programmer Jr
-- Focus on gameplay and AI
+- Focus on UI and AI
 
 <div align="center">
   <a href="https://github.com/lucasfrazaodev">
